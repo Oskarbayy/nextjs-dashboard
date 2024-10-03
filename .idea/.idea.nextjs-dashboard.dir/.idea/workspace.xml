@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d14873b-2011-4ee1-9884-3f7144b29845" name="Changes" comment="" />
+    <list default="true" id="8d14873b-2011-4ee1-9884-3f7144b29845" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.nextjs-dashboard.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.nextjs-dashboard.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dashboard/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/dashboard/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ui/dashboard/revenue-chart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/dashboard/revenue-chart.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +76,10 @@
       <option name="presentableId" value="Default" />
       <updated>1727682250454</updated>
       <workItem from="1727682251647" duration="9908000" />
+      <workItem from="1727694725779" duration="185000" />
+      <workItem from="1727851430247" duration="1734000" />
+      <workItem from="1727860294541" duration="23000" />
+      <workItem from="1727935861734" duration="1934000" />
     </task>
     <servers />
   </component>
